@@ -66,4 +66,22 @@ body{
     width: 6vh;
     height: 6vh;
     margin: 5px;
+} 
+
+#calc-screen{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#display{
+    font-size: 4vh;
+    font-weight: 800;
+    margin: 5px;
+}
+
+#result{
+    font-size: 4vh;
+    font-weight: 900;
+    margin: 5px;
 }
